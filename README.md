@@ -38,4 +38,9 @@ Meu nome é Fabricio, sou um desenvolvedor Java em construção.
   <a/>
 </p>
 	
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=fabriciio95&hide=php&langs_count=4&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
+
+	
+![Estatísticas do Github do Fabricio](https://github-readme-stats.vercel.app/api?username=fabriciio95&show_icons=true&theme=radical&hide=prs,issues,contribs)
+	
 <p> <img align = "center" src = "https://github-readme-streak-stats.herokuapp.com/?user=fabriciio95&" alt = "fabriciio95" /> </p>
