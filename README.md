@@ -5,7 +5,7 @@
 Meu nome é Fabricio, sou um desenvolvedor Java em construção.
 
 - 📚 Estou atualmente cursando Análise e Desenvolvimento de Sistemas na faculdade <a href="https://www.impacta.edu.br/" target="_blank">Impacta<a/>.
-- 🔭 Estou atualmente participando do bootcamp desenvolvedor Java junior da <a href="https://brazil.generation.org" target="_blank">Generation</a>.
+- 🔭 Estou atualmente participando do bootcamp desenvolvedor Java júnior da <a href="https://brazil.generation.org" target="_blank">Generation</a>.
 - ⏳ Estou aprendendo inglês com <a href="https://www.instagram.com/mairovergara" target="_blank">Mairo Vergara<a/>.
 
 
