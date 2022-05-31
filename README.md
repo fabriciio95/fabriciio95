@@ -4,7 +4,7 @@
 ### Olá, seja bem vindo 👋
 Meu nome é Fabricio, sou um desenvolvedor Java em construção.
 
-- 📚 Estou atualmente cursando Análise e Desenvolvimento de Sistemas na faculdade <a href="https://www.impacta.edu.br/" target="_blank">Impacta<a/>.
+- 📚 Formado em Análise e Desenvolvimento de Sistemas na faculdade <a href="https://www.impacta.edu.br/" target="_blank">Impacta<a/>.
 - ⏳ Estou aprendendo inglês com <a href="https://www.instagram.com/mairovergara" target="_blank">Mairo Vergara<a/>.
 
 
